@@ -1,0 +1,7 @@
+Receta canelones: 
+    - paso 1: cocemos la pasta
+    - paso 2: hacemos la carne picada
+    - paso 3: sofreimos la carne
+    - paso 4: rellenamos los canelones
+    - paso 5: meto los canelones en el horno 20 min a 200º
+    - paso 6 emplatamos 
